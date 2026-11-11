@@ -1,0 +1,17 @@
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+Testing/
+*.o
+*.obj
+*.a
+kitezh_tests
+.cache/
+.vs/
+.idea/
+.vscode/
+*.user
+.DS_Store
